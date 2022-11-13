@@ -1,1 +1,2 @@
 some content (irrelevant)
+another line of text (its content is irrelevant)
